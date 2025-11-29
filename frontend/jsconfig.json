@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "compilerOptions": {
       // ...
@@ -10,17 +9,4 @@
       }
       // ...
     }
-=======
-{
-    "compilerOptions": {
-      // ...
-      "baseUrl": ".",
-      "paths": {
-        "@/*": [
-          "./src/*"
-        ]
-      }
-      // ...
-    }
->>>>>>> origin/main
   }
